@@ -1,0 +1,2 @@
+#Executable     L  K     N_0    U     nlandscapes   conf_land   alpha_r   delta    W_max    b
+./rescue-NK    12  11  10000  0.001     10000        100        1.0      0.3     1.5     6.0
